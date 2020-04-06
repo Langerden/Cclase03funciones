@@ -1,4 +1,3 @@
-# Villegas Octavio
+Langer Denise
 # Tutorial de Git + GitHub
 
-Langer Denise
